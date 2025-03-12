@@ -5,13 +5,13 @@ by Joanna Mnich
 
 # 2. Weekly tasks
 
-1 Week 1 - Hello World
-2 Week 2 - Bank
-3 Week 3 - Accounts
-4 Week 4 - Collatz
-5 Week 5 - Weekday
-6 Week 6 - Square root
-7 Week 7 - Es
+- Week 1 - Hello World
+- Week 2 - Bank
+- Week 3 - Accounts
+- Week 4 - Collatz
+- Week 5 - Weekday
+- Week 6 - Square root
+- Week 7 - Es
 
 # 3. Sources
 
