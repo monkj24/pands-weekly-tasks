@@ -9,7 +9,7 @@ By finishing this work, I will improve my writing of scripts that carry out part
 
 # 2. Weekly tasks
 
-- Week 1 - <a href="/monkj24/pands-weekly-tasks/mywork/HelloWorld.py">Hello World</a>
+- Week 1 - <a href="/monkj24/pands-weekly-tasks/bob/main/mywork/HelloWorld.py">Hello World</a>
 - Week 2 - Bank
 - Week 3 - Accounts
 - Week 4 - Collatz
