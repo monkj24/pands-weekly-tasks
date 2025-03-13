@@ -10,7 +10,7 @@ By finishing this work, I will improve my writing of scripts that carry out part
 # 2. Weekly tasks
 
 - Week 1 - <a href="/mywork/HelloWorld.py">Hello World</a>
-- Week 2 - Bank
+- Week 2 - <a href="/mywork/Bank.py">Bank</a>
 - Week 3 - Accounts
 - Week 4 - Collatz
 - Week 5 - Weekday
