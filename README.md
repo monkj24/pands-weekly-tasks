@@ -11,11 +11,11 @@ By finishing this work, I will improve my writing of scripts that carry out part
 
 - Week 1 - <a href="/mywork/HelloWorld.py">Hello World</a>
 - Week 2 - <a href="/mywork/Bank.py">Bank</a>
-- Week 3 - Accounts
-- Week 4 - Collatz
-- Week 5 - Weekday
+- Week 3 - <a href="/mywork/Accounts.py">Accounts<a/>
+- Week 4 - <a href="/mywork/Collatz.py">Collatz<a/>
+- Week 5 - <a href="/mywork/Weekday.py">Weekday<a/>
 - Week 6 - <a href="/mywork/Squareroot.py">Square root</a>
-- Week 7 - Es
+- Week 7 - <a href="/mywork/Es.py">Es</a>
 
 # 3. Sources
 
