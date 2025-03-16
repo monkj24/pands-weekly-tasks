@@ -14,7 +14,7 @@ By finishing this work, I will improve my writing of scripts that carry out part
 - Week 3 - Accounts
 - Week 4 - Collatz
 - Week 5 - Weekday
-- Week 6 - <a href="/mywork/Square root.py>Square root</a>
+- Week 6 - <a href="/mywork/Squareroot.py">Square root</a>
 - Week 7 - Es
 
 # 3. Sources
