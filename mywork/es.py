@@ -4,22 +4,12 @@
 # Author: Joanna Mnich
  
 import json
-def some_function(args: list):
-        print(args)
 
-args = ["moby-dick.txt"]
-some_function(args)
+name = "Moby-Dick"
 
-filename = input("Moby-Dick ")
-
-if os.path.exists(filename):
-    with open(filename, 'r', encoding='utf-8') as file:
-        content = file.read()
-        print(content)
-else:
-    print(f"The file {filename} does not exist.")
-
-with open(filename, 'r', encoding='utf-8') as file:
+with open('moby-dick.txt', 'rt', encoding='utf-8') as file:
     content = file.read().lower()
     e_count = content.count('e')
-print(f"The file '{filename}' contains {e_count} 'e's.")
+   
+
+print(f"The file '{name}' contains {e_count} occurence of 'e's.")   
