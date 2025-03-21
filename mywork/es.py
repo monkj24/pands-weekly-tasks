@@ -12,7 +12,6 @@ some_function(args)
 
 filename = input("Moby-Dick ")
 
-import os
 if os.path.exists(filename):
     with open(filename, 'r', encoding='utf-8') as file:
         content = file.read()
