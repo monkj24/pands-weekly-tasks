@@ -28,3 +28,5 @@ By finishing this work, I will improve my writing of scripts that carry out part
 - Real Python
 
 # 4. References
+
+https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
