@@ -3,8 +3,6 @@
 
 # Author: Joanna Mnich
  
-import json
-
 name = "Moby-Dick"
 
 with open('moby-dick.txt', 'rt', encoding='utf-8') as file:
