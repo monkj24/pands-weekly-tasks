@@ -16,6 +16,7 @@ By finishing this work, I will improve my writing of scripts that carry out part
 - Week 5 - <a href="/mywork/weekday.py">Weekday<a/>
 - Week 6 - <a href="/mywork/Squareroot.py">Square root</a>
 - Week 7 - <a href="/mywork/es.py">Es</a>
+- Week 8 - <a href="/mywork/plottask.py">Plot</a>
 
 # 3. Sources
 
@@ -27,3 +28,5 @@ By finishing this work, I will improve my writing of scripts that carry out part
 - Real Python
 
 # 4. References
+
+https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
