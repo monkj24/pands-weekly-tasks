@@ -5,7 +5,9 @@
 
 #Author: Joanna Mnich
 
-from datetime import datetime  #https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
+#https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
+
+from datetime import datetime  
 
 today = datetime.today().weekday()
 
