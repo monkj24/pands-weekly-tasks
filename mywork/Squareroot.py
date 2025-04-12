@@ -1,18 +1,20 @@
 # A program takes a positive floating-point number as input 
-# and outputs an approximation of its square root.
+# Outputs an approximation of its square root.
 
 # Author: Joanna Mnich
 
-# ref: https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
-
-# Calculate the square root of S using Newton's method
-# S(float) The square root of the given number.
-# tolerance (float): The merging tolerance (default is 1e-6).
-# max_iterations (int): Maximum iterations (1000 by default).
 # I had diificulty to find the way to have answer with one position after comma-(3.8)
 # In print, I used round function
 
+# https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
+# https://docs.python.org/3/library/exceptions.html#ValueError
+# https://docs.python.org/3/library/functions.html#abs
+# https://docs.python.org/3/library/functions.html#round
 
+# Calculate the square root of S using Newton's method
+# S(float) The square root of the given number
+# tolerance (float): The merging tolerance (default is 1e-6)
+# max_iterations (int): Maximum iterations (1000 by default)
 
 def SquareRoot(S, tolerance = 1e-6,max_iterations=1000):
 
