@@ -38,7 +38,7 @@ https://www.w3schools.com/python/python_operators.asp
 https://realpython.com/python-f-strings/
 https://www.w3schools.com/python/python_while_loops.asp
 https://docs.python.org/3/tutorial/errors.html#handling-exceptions
-ttps://docs.python.org/3/library/functions.html#open
+https://docs.python.org/3/library/functions.html#open
 https://docs.python.org/3/library/codecs.html#standard-encodings
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 https://gist.githubusercontent.com/StevenClontz/4445774/raw/1722a289b665d940495645a5eaaad4da8e3ad4c7/mobydick.txt
@@ -47,6 +47,10 @@ https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
 https://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html
 https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html
 https://realpython.com/python-histograms/?utm_source=chatgpt.com
-
-
 https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
+https://docs.python.org/3/library/datetime.html
+https://docs.python.org/3/tutorial/controlflow.html#if-statements
+https://docs.python.org/3/library/datetime.html#datetime.datetime.weekday
+
+
+
