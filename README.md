@@ -51,6 +51,10 @@ https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given
 https://docs.python.org/3/library/datetime.html
 https://docs.python.org/3/tutorial/controlflow.html#if-statements
 https://docs.python.org/3/library/datetime.html#datetime.datetime.weekday
+https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
+https://docs.python.org/3/library/exceptions.html#ValueError
+https://docs.python.org/3/library/functions.html#abs
+https://docs.python.org/3/library/functions.html#round
 
 
 
