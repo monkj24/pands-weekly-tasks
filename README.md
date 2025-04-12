@@ -29,4 +29,9 @@ By finishing this work, I will improve my writing of scripts that carry out part
 
 # 4. References
 
+
+https://realpython.com/python-built-in-functions/#len
+https://docs.python.org/3/library/functions.html#len
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+
 https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
