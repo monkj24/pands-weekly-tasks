@@ -36,5 +36,7 @@ https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 https://docs.python.org/3/library/functions.html#input
 https://www.w3schools.com/python/python_operators.asp
 https://realpython.com/python-f-strings/
+https://www.w3schools.com/python/python_while_loops.asp
+https://docs.python.org/3/tutorial/errors.html#handling-exceptions
 
 https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
