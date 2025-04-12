@@ -11,9 +11,9 @@
 
 # Author : joanna Mnich
 
-https://realpython.com/python-built-in-functions/#len
-https://docs.python.org/3/library/functions.html#len
-https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+#https://realpython.com/python-built-in-functions/#len
+#https://docs.python.org/3/library/functions.html#len
+#https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 
 accountno = input("Please enter a 10 digit account number:  ")
 

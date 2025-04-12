@@ -8,8 +8,8 @@
 
 # Author : Joanna Mnich
 
-https://www.w3schools.com/python/python_while_loops.asp
-https://docs.python.org/3/tutorial/errors.html#handling-exceptions
+#https://www.w3schools.com/python/python_while_loops.asp
+#https://docs.python.org/3/tutorial/errors.html#handling-exceptions
 
 def sequence(number):
     sequence = []

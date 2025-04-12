@@ -5,9 +5,9 @@
 
 # Author Joanna Mnich
 
-https://docs.python.org/3/library/functions.html#input
-https://www.w3schools.com/python/python_operators.asp
-https://realpython.com/python-f-strings/
+#https://docs.python.org/3/library/functions.html#input
+#https://www.w3schools.com/python/python_operators.asp
+#https://realpython.com/python-f-strings/
 
 
 
