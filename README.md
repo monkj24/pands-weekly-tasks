@@ -29,8 +29,7 @@ By finishing this work, I will improve my writing of scripts that carry out part
 
 ## 4. References
 
-
-[RealPython - built in functions](https://realpython.com/python-built-in-functions/#len)
+https://realpython.com/python-built-in-functions/#len
 https://docs.python.org/3/library/functions.html#len
 https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 https://docs.python.org/3/library/functions.html#input
