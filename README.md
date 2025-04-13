@@ -1,7 +1,7 @@
 # Pands-weekly-tasks
 by Joanna Mnich
 
-## 1. Introduction**
+## 1. Introduction
 This week's task aims to improve understanding of fundamental programming and scripting ideas. 
 My objective was to gain a strong foundation in writing clear, effective code and to understand how to analyze issues into smaller, more manageable pieces.
 
@@ -30,7 +30,7 @@ By finishing this work, I will improve my writing of scripts that carry out part
 ## 4. References
 
 
-https://realpython.com/python-built-in-functions/#len
+[RealPython - built in functions](https://realpython.com/python-built-in-functions/#len)
 https://docs.python.org/3/library/functions.html#len
 https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 https://docs.python.org/3/library/functions.html#input
