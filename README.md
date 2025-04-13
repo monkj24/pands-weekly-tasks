@@ -1,7 +1,7 @@
 # Pands-weekly-tasks
 by Joanna Mnich
 
-## **1. Introduction**
+## 1. Introduction**
 This week's task aims to improve understanding of fundamental programming and scripting ideas. 
 My objective was to gain a strong foundation in writing clear, effective code and to understand how to analyze issues into smaller, more manageable pieces.
 
