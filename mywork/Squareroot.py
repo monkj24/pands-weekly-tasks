@@ -1,3 +1,4 @@
+# SQUAREROOT
 # A program takes a positive floating-point number as input 
 # Outputs an approximation of its square root.
 
@@ -14,7 +15,7 @@
 # Calculate the square root of S using Newton's method
 # S(float) The square root of the given number
 # tolerance (float): The merging tolerance (default is 1e-6)
-# max_iterations (int): Maximum iterations (1000 by default)
+# max_iterations (int): Maximum number of tries (1000 by default)
 
 def SquareRoot(S, tolerance = 1e-6,max_iterations=1000):
 
@@ -31,14 +32,14 @@ def SquareRoot(S, tolerance = 1e-6,max_iterations=1000):
         new_x = 0.5 * (x + (S / x))  # Newton`s` formula
 
 
-        if abs(new_x - x) < tolerance:
+        if abs(new_x - x) < tolerance:  # if the difference between new guess and old one is very small, than stop
             return new_x
         
-        x = new_x 
+        x = new_x  # if is not close tolerance , set x to new guess
 
  return x
 
-number = float(input("Enter number: "))
+number = float(input("Enter number: ")) # return imput to float number
 result = SquareRoot(number)
 
-print(f" The Square Root of {number} is approximately {round(result,1)}")
+print(f" The Square Root of {number} is approximately {round(result,1)}") # prints the result rounded to 1 decimal place

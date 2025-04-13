@@ -1,9 +1,11 @@
+# WEEKDAY
 # Write a program that outputs whether or not today is a weekday.
 
+# Author: Joanna Mnich
 # First I checked what function today show me : day name, date ,or number
 # Then I use it as a number, and add days name
 
-#Author: Joanna Mnich
+
 
 #https://www.geeksforgeeks.org/python-program-to-find-day-of-the-week-for-a-given-date/
 #https://docs.python.org/3/library/datetime.html

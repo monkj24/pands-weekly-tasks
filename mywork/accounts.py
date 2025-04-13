@@ -1,6 +1,8 @@
+# ACCOUNTS
 # Reads in a 10 characters account number and outputs the account number with last 4 numbers showing
 # the first 6 characters replaced with Xs
 
+# Author : Joanna Mnich
 # First I thought that if function [0:4] print first 4 digits, so I can use function with [6:0] 
 # and it print me last 4, but I received no answer because in python , first index must be lower than second.
 # Function masked made me error, because when coding, first must be defined account number (accountno =.....)
@@ -8,8 +10,6 @@
 # I use len function to validate the input , to check how many characters are entered.
 # Must be six digits entered because of quanity masked requirement
 
-
-# Author : joanna Mnich
 
 #https://realpython.com/python-built-in-functions/#len
 #https://docs.python.org/3/library/functions.html#len
