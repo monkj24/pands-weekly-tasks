@@ -2,8 +2,8 @@
 # Write a program that outputs whether or not today is a weekday.
 
 # Author: Joanna Mnich
-# First I checked what function today show me : day name, date ,or number
-# Then I use it as a number, and add days name
+# First, I checked what function today shows me: day name, date, or number
+# Then I use it as a number, and add the day's name
 
 
 
@@ -12,11 +12,11 @@
 #https://docs.python.org/3/tutorial/controlflow.html#if-statements
 #https://docs.python.org/3/library/datetime.html#datetime.datetime.weekday
 
-from datetime import datetime  # datetime module used to determine the current day of the week
+from datetime import datetime  # The datetime module is used to determine the current day of the week
 
 today = datetime.today().weekday() # returns current day and time
 
-days = {                # days from 0 not 1 , define each day integer with coresponding name day
+days = {                # days from 0, not 1, define each day integer with corresponding name day
     0: "Monday",
     1: "Tuesday",  
     2: "Wednesday",
