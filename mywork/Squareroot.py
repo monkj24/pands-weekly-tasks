@@ -4,8 +4,8 @@
 
 # Author: Joanna Mnich
 
-# I had diificulty to find the way to have answer with one position after comma-(3.8)
-# In print, I used round function
+# I had difficulty finding the way to have the answer with one position after a comma-(3.8)
+# In print, I used the round function
 
 # https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
 # https://docs.python.org/3/library/exceptions.html#ValueError
