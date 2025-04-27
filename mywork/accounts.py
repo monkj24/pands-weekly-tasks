@@ -1,5 +1,5 @@
 # ACCOUNTS
-# Reads in a 10-character account number and outputs the account number with lthe ast 4 numbers showing
+# Reads in a 10-character account number and outputs the account number with the last 4 numbers showing
 # the first 6 characters replaced with Xs
 
 # Author : Joanna Mnich
