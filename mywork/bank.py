@@ -1,10 +1,10 @@
 # BANK
-# Prompt the user and read in two money amounts ( in cent)
+# Prompt the user and read in two money amounts ( in cents)
 
 
 # Author Joanna Mnich
 # I found out that to define cents is necessary to use a function with % as a reminder
-# Using f-string in print at the end, helps clean evaluate expression inside brackets {}
+# Using f-string in print at the end helps clean evaluate expression inside brackets {}
 
 
 #https://docs.python.org/3/library/functions.html#input
