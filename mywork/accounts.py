@@ -1,14 +1,14 @@
 # ACCOUNTS
-# Reads in a 10 characters account number and outputs the account number with last 4 numbers showing
+# Reads in a 10-character account number and outputs the account number with lthe ast 4 numbers showing
 # the first 6 characters replaced with Xs
 
 # Author : Joanna Mnich
-# First I thought that if function [0:4] print first 4 digits, so I can use function with [6:0] 
-# and it print me last 4, but I received no answer because in python , first index must be lower than second.
+# First, I thought that if function [0:4] print the first 4 digits so, I can use a function with [6:0] 
+# and it prints me the last 4, but I received no answer because the first index must be lower than the second in Python.
 # Function masked made me error, because when coding, first must be defined account number (accountno =.....)
-# I used function masked with not defined 10 digit numbers
-# I use len function to validate the input , to check how many characters are entered.
-# Must be six digits entered because of quanity masked requirement
+# I used a function masked with not-defined 10-digit numbers
+# I used the len function to validate the input, to check how many characters were entered.
+# Must be six digits entered because of the quantity masked requirement
 
 
 #https://realpython.com/python-built-in-functions/#len
