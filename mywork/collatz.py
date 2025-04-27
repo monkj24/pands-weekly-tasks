@@ -1,11 +1,11 @@
 # COLLATZ
-# Program must ask user to input any positive integer 
-# Outputs the succesive values of the calculation, 
+# Program must ask a user to input any positive integer 
+# Outputs the successive values of the calculation, 
 # Continue until the sequence reaches 1
 
 # Author : Joanna Mnich
-# I had error with output because I use only while, I didn`t use "try and except" commands 
-# and program doesn`t show me any outputs
+# I had an error with the output because I used only while, I didn`t use "try and except" commands 
+# and the program doesn`t show me any outputs
 
 
 # https://www.w3schools.com/python/python_while_loops.asp
@@ -15,12 +15,12 @@ def sequence(number):
     sequence = []  # Create the empty list to store the sequence of numbers
 
     while number != 1:
-        sequence.append(number) # append keep tracking the number, add an item to the end of the list
+        sequence.append(number) # append, keep tracking the number, add an item to the end of the list
 
-        if number % 2 == 0:  # if the numer is even , divide it by 2
+        if number % 2 == 0:  # if the number is even, divide it by 2
             number = number // 2
         else:
-            number = number * 3 + 1  # if the number is odd , multiply by 3 and add 1
+            number = number * 3 + 1  # if the number is odd, multiply by 3 and add 1
 
     sequence.append(1)
     return sequence
