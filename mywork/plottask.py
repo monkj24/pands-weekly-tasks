@@ -13,24 +13,19 @@
 #https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html
 #https://realpython.com/python-histograms/?utm_source=chatgpt.com
 
-
-
 import numpy as np   # numpy used for numerical operations, here to generate random data for a normal distribution
 import matplotlib.pyplot as plt    # matplotlib import librery to creating plots, 
                                    # pyplot create the figure, axes 
 
-=======
 import numpy as np
 import matplotlib.pyplot as plt
 
 
->>>>>>> 66af136 (new)
 # Parameters for the normal distribution
 mean = 5
 std_dev = 2
 num_samples = 1000
 
-<<<<<<< HEAD
 np.random.seed(1) # seed added to ensure data does not change whenever the code is run
 normData = np.random.normal(mean, std_dev, num_samples) # result of random stored in normData
 
@@ -69,9 +64,6 @@ fig.legend(loc='upper left', bbox_to_anchor=(0.1, 0.95))
 
 plt.show()
 
-
-
-=======
 # Generate random values from a normal distribution
 normal_data = np.random.normal(mean, std_dev, num_samples)
 
@@ -97,4 +89,4 @@ plt.grid()
 
 # Show the plot
 plt.show()
->>>>>>> 66af136 (new)
+
